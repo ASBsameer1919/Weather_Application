@@ -102,6 +102,9 @@ When prompted, enter **anything other than `gui`** to use CLI.
 
 Example:
 
+<img width="468" height="681" alt="image" src="https://github.com/user-attachments/assets/ba83c046-ab8f-4e8e-b8da-bdaa44d9e8f0" />
+
+
 ```
 Enter 'gui' to launch GUI or anything else for CLI: cli
 Enter city/place name: London
@@ -192,6 +195,7 @@ You’re free to use, modify, and distribute it.
 * [Pexels](https://www.pexels.com/) for high-quality background images.
 
 ---
+
 
 
 
