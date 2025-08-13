@@ -107,11 +107,11 @@ Example:
 
 ```
 Enter 'gui' to launch GUI or anything else for CLI: cli
-Enter city/place name: London
+Enter city/place name: Hyderabad
 
 --- Location ---
-London, United Kingdom (lat=51.5072, lon=-0.1276)
-Timezone: Europe/London
+Hyderbad (lat=51.5072, lon=-0.1276)
+Timezone: ISD
 
 --- Current Weather ---
 Temperature: 19.2 °C
@@ -195,6 +195,7 @@ You’re free to use, modify, and distribute it.
 * [Pexels](https://www.pexels.com/) for high-quality background images.
 
 ---
+
 
 
 
