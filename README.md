@@ -149,13 +149,13 @@ You’ll see a **Tkinter window** where you can:
 ## 🖼 Screenshots
 
 **Hyderabad Example**
-![Hyderabad Weather](fd9bbab4-15a3-47d5-a2d0-b664e1585f9c.png)
+![Hyderabad Weather]
 
 <img width="472" height="655" alt="image" src="https://github.com/user-attachments/assets/d5309c71-93cf-4ca4-bdbb-f631ec3d40bc" />
 
 
 **Thailand Example**
-![Thailand Weather](f6e14960-f636-4779-ad17-7746be8e0996.png)
+![Thailand Weather]
 
 <img width="474" height="641" alt="image" src="https://github.com/user-attachments/assets/2fdb979f-b225-48c8-a5ab-2574db1e55b9" />
 
@@ -195,6 +195,7 @@ You’re free to use, modify, and distribute it.
 * [Pexels](https://www.pexels.com/) for high-quality background images.
 
 ---
+
 
 
 
